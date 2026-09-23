@@ -1,5 +1,5 @@
-/*! Copyright © 2026 Tiffany Schuman, doing business as Vynxcode All Rights Reserved.  
-Licensed under the Vynxcode Proprietary License.  
+/*! Copyright © 2026 Tiffany Schuman.  
+Licensed under the Blackkat Proprietary License.  
 See LICENSE for details */ 
 
 * {
@@ -149,6 +149,29 @@ li a {
   color: white;
   text-shadow: 1px 5px 10px #242124;
   z-index: 2;
+}
+
+.link-btn {
+  margin: 1rem auto;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  text-align: center;
+  cursor: pointer;
+  z-index: 3;
+  text-decoration: none;
+  border-radius: 10px;
+  border: 1px solid black;
+  color: white;
+  text-shadow: 2px 5px 15px black;
+  box-shadow: 0 0 10px black;
+  background-color: #242124;
+  transition: scale 0.2s ease, background-color 0.2s ease;
+}
+
+.link-btn:hover {
+  transform: scale(0.97);
+  color: white;
+  background-color: #8a2be2;
 }
 /* about section -------------------------- */
 .about-section {
