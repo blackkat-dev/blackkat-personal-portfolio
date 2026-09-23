@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio Project
+# 💼 Blackkat Personal Portfolio
 
 ## 📖 Overview
 This is my first minimal personal portfolio, created as part of my FreeCodeCamp Responsive Web Design Certification. The objective was to build a fully responsive personal portfolio webpage using only HTML and CSS that showcases my projects, skills, and contact information.
